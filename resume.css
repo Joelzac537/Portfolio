@@ -1,0 +1,133 @@
+body {
+    background-image: url('d33.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+    /*background-size: 300px 100px;*/
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    color: lightskyblue;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h5 {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    color: lightskyblue;
+}
+
+h6 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h7 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h8 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h9 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h10 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h11 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h12 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+h13 {
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    color: lightskyblue;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+ul.a {
+    list-style-type: circle;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    line-height: 200%;
+}
+
+.margin {
+    margin-left: 2900%;
+    margin-top: 10%;
+}
+
+@media (min-width: 295px) {
+    .margin {
+        margin-left: 100%;
+    }
+}
+
+@media (min-width: 376px) {
+    .margin {
+        margin-left: 100%;
+    }
+}

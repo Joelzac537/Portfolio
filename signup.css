@@ -1,0 +1,21 @@
+body {
+    background-image: url('si1.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.margin {
+    margin-left: 2900%;
+    margin-top: 10%;
+}
+
+.mas {
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.sum {
+    margin-top: 10px;
+    margin-left: 50px;
+}

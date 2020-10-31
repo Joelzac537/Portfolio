@@ -1,0 +1,31 @@
+        body {
+            background-image: url('me.jpg');
+            background-repeat: no-repeat;
+            background-size: 1540px;
+            /*background-size: 300px 100px;*/
+        }
+        
+        .me {
+            font-weight: bolder;
+            font-size: 40px;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: initial;
+            color: whitesmoke;
+        }
+        
+        .margin {
+            margin-left: 2900%;
+            margin-top: 10%;
+        }
+        
+        @media (min-width: 376px) {
+            .margin {
+                margin-left: 100%;
+            }
+        }
+        
+        @media (min-width: 284px) {
+            .margin {
+                margin-left: 100%;
+            }
+        }
